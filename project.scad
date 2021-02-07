@@ -1,6 +1,6 @@
-use <four-inch-pipe.scad>;
-use <half-inch-pipe.scad>;
-use <solid.scad>
+use <modules/four-inch-pipe.scad>;
+use <modules/half-inch-pipe.scad>;
+use <modules/solid.scad>
 
 //--------------- Frame
 
